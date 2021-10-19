@@ -1,0 +1,13 @@
+.iframes__iframe {
+  width: 515px;
+  height: 316px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-right: 0;
+  /* background-color: aquamarine; */
+}
+
+.iframes__iframe:not(:first-child) {
+  margin-left: 20px;
+}
