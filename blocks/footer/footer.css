@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  max-height: 756px;
+  position: relative;
+  justify-content: space-between;
+  background-color: #1f1f1f;
+  z-index: 0;
+  color: white;
+  min-height: 350px;
+}

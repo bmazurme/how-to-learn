@@ -1,0 +1,7 @@
+.footer__column-link_type_icon {
+  display: flex;
+  flex-direction: column;
+  flex-direction: row;
+  justify-content:left;
+  align-items: center;
+}
