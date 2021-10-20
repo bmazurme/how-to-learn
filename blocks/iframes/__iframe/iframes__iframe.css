@@ -5,6 +5,7 @@
   margin-left: 0;
   margin-bottom: 0;
   margin-right: 0;
+  border: 0;
 }
 
 .iframes__iframe:not(:first-child) {
