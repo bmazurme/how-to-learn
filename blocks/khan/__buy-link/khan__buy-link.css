@@ -12,15 +12,3 @@
   transition: opacity 0.5s ease;
   opacity: 0.6;
 } 
-
-/* .header__link {
-  color: #2f80ed;
-  text-decoration: none;
-  z-index: 1;
-  opacity: 1;
-}
-
-.header__link:hover {
-  transition: opacity 0.5s ease;
-  opacity: 0.6;
-} */
