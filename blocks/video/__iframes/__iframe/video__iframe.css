@@ -1,4 +1,4 @@
-.iframes__iframe {
+.video__iframe {
   width: 515px;
   height: 316px;
   margin-top: 0;
@@ -8,6 +8,6 @@
   border: 0;
 }
 
-.iframes__iframe:not(:first-child) {
+.video__iframe:not(:first-child) {
   margin-left: 20px;
 }

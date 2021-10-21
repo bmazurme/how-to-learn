@@ -5,6 +5,5 @@
   margin-bottom: 0;
   margin-left: 0;
   margin-right: 48px;
-  background-image: url(../../../images/khan-book.jpg);
-  background-size: cover;
+  object-fit: cover;
 }

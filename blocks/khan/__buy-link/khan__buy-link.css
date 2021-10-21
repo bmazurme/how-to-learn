@@ -6,9 +6,10 @@
   text-decoration: none;
   z-index: 2;
   opacity: 1; 
+  align-self: start;
+  transition: opacity 0.5s ease;
 }
 
 .khan__buy-link:hover {
-  transition: opacity 0.5s ease;
   opacity: 0.6;
 } 
